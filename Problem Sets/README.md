@@ -1,1 +1,1 @@
-[Comp Problem Set 1a](../blob/master/Computation/Wk1_DifInt/NumIntegr.ipynb)
+[Comp Problem Set 1a](../Computation/Wk1_DifInt/NumIntegr.ipynb)
